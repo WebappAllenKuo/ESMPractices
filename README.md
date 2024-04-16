@@ -15,3 +15,5 @@ js 可以 export 多個常數, 函數
 import 時, 用物件包住,例如 import{ pi , add} from './math.js'
 
 js 可以有一個 export default, import 時, 就直接用該 函數名稱, 但 import 時就不能用大括號包住; 可以 import 同一檔案多次
+
+## Ex03 動態 import
